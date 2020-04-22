@@ -16,8 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I miss you Goru :)
-        </a>
+          I miss you Goru
+        </a> 
       </header>
     </div>
   );
